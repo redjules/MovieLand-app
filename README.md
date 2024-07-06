@@ -73,5 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <img width="1582" alt="Screenshot 2024-07-06 at 12 09 37" src="https://github.com/redjules/movieland-app/assets/106017493/6cfa80e0-8855-4f92-b8be-0f5ecad519ed">
 
+### App
+
+movieland-react-app-project.netlify.app
+
 
 
