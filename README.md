@@ -75,7 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### App
 
-[movieland-react-app-project.netlify.app](https://movieland-react-app-project.netlify.app/)
+[[movieland-react-app-project.netlify.app](https://movieland-react-app-project.netlify.app/)](https://mymovielandappproject.netlify.app/)
 
 
 
